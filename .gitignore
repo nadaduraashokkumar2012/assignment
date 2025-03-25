@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/https
+/.vscode
+/package-lock.json
+/.env
+/performance-test.js
+/*.log
+/logs
+.idea
